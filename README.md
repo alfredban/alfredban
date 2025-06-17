@@ -28,7 +28,7 @@
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![Prolog](https://img.shields.io/badge/Prolog-%23E61B23.svg?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+
 
 
 
