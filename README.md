@@ -16,7 +16,7 @@
 - :rocket:En busqueda de conocimiento :brain:
 - 🌱 Estudiando en la *universidad nacional de lanus*
 - :mailbox_with_mail: Abierto a ofertas laborales
-- 📄 [Ver mi CV en PDF](https://github.com/alfredban/CV-link-/raw/main/CV-Ivanovich%20Alfredo.pdf)
+- 📄 [Descargar mi CV](https://github.com/alfredban/CV-link-/raw/main/CV-Ivanovich%20Alfredo.pdf)
 - ⚡ Fun facts:🎮⚽🍽️
 - 📧 Contacto:alfredban22@gmail.com
 ---
